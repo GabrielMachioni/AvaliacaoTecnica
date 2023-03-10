@@ -1,6 +1,6 @@
 class BracketChecker:
     """
-    Class reposible to check the brackets
+    Class responsible to check the brackets
     """
     def __init__(self, open_chars='({[', close_chars=')}]'):
         self.char_pairs = dict(zip(close_chars, open_chars))
