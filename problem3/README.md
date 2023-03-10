@@ -31,7 +31,7 @@ these were the technologies used for this challenge:
     - change expressions: change the file (expressoes.txt) in assets
 
 * To run the tests
-    - python -m pytest test/main_test.py
+    - python -m pytest tests/main_test.py
     - Change input tests/test_text.json
     - Test output: tests/output_test.json
 
